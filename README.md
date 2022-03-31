@@ -1,4 +1,4 @@
-# Movies-Recommendation
+# Movies Recommendation
 
 
 ## Table of contents
@@ -11,11 +11,10 @@
 
 Build a system that suggest movies using Machine Learning.
 
-
 ## Technologies
 
 Project created with:
-Python 3.7
+Google Colab
 
 ## How To Use
 
